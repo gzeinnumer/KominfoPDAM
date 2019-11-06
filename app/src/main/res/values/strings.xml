@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kominfo PDAM</string>
+    <string name="pasang_baru">Pasang Baru</string>
+    <string name="tagihan_terkini">Tagihan Terkini</string>
+    <string name="pass">password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="nama">Nama</string>
+    <string name="logout">logout</string>
+    <string name="laporkan_gangguan">Laporkan Gangguan</string>
+    <string name="kirim_laporan">kirim laporan</string>
+    <string name="laporan_status">Isikan deskripsi gangguan</string>
+    <string name="history_tagihan">History Tagihan</string>
+</resources>
